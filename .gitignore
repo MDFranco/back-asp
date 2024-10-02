@@ -1,0 +1,20 @@
+# Archivos de configuración de Visual Studio
+.vs/
+*.sln
+*.user
+*.suo
+
+# Archivos de build de .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Archivos de configuración de ASP.NET
+appsettings*.json
+**/Properties/launchSettings.json
+
+# Otros archivos de sistema
+.DS_Store
+Thumbs.db
